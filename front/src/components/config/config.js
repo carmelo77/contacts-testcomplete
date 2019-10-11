@@ -1,5 +1,5 @@
 module.exports = {
-	URLAPI: 'https://contacts-testnode.herokuapp.com/',
+	URLAPI: 'https://contacts-testcomplete.herokuapp.com/',
 };
 
 	
